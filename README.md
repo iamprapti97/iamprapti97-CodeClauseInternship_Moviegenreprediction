@@ -1,6 +1,6 @@
 # CodeClauseInternship_Movie-Genre-Prediction
 
-#Overview
+
 
 This project focuses on predicting the genre of a movie based on its summary plot. 
 Using a Multinomial Naive Bayes classifier with TF-IDF vectorization, the model is trained on a dataset of movie plot summaries. 
